@@ -6,9 +6,9 @@ This idea focuses on building local small scale network for groups stranded in n
 
 The team **Debug Thugs** comprises three 2nd year undergraduates. Namely :
 
-- **Kaustubh Trivedi**
-- **Ayush Agarwal**
-- **Suyash Jain**
+- [**Kaustubh Trivedi**](https://github.com/codekaust)
+- [**Ayush Agarwal**](https://github.com/aagarwal1012)
+- [**Suyash Jain**](https://github.com/jsuyash1514)
 
 ## THE PROBLEM
 
